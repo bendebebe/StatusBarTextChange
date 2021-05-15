@@ -1,0 +1,9 @@
+Package: com.bendstraw.statusbartextchange
+Name: StatusBarTextChange
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak that hooks into the Status Bar to change some text.
+Maintainer: Ben Debebe
+Author: Ben Debebe
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
